@@ -1,0 +1,11 @@
+{
+    "mode": "dev",
+    "modes": {
+        "dev": {
+            "port": 1950
+        },
+        "prod": {
+            "port": 80
+        }
+    }
+}
