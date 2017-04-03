@@ -38,7 +38,7 @@ npm start
 
 ## Project details
 
-```
+```shell
 src            # Source files (TS)
 |- app         # Classes and functions specific for this project
 |- framework   # Common classes and functions for use in different projects
